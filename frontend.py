@@ -1,3 +1,10 @@
+"""
+Developed by Sefa LOK , Electronics Engineer and IT Specialist.
+
+Date: 13.12.2020 , Version: 1.0
+
+"""
+
 from tkinter import *
 from backend import Database
 
